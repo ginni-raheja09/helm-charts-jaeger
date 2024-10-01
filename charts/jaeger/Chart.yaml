@@ -44,3 +44,7 @@ dependencies:
   - name: common
     repository: https://charts.bitnami.com/bitnami
     version: 2.x.x
+  - name: kibana
+    version: 11.2.16
+    repository: https://charts.bitnami.com/bitnami
+
